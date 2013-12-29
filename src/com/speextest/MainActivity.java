@@ -1,4 +1,6 @@
-package com.example.speextest;
+package com.speextest;
+
+import com.example.speextest.R;
 
 import android.os.Bundle;
 import android.app.Activity;
